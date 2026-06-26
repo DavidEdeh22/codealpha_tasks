@@ -6,7 +6,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-Web%20Automation-green?logo=selenium)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-HTML%20Parsing-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
