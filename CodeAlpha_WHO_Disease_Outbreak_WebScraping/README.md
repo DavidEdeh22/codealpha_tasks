@@ -206,7 +206,7 @@ During execution, the scraper will:
 * Export the final dataset as:
 
 ```
-data/raw/who_outbreak_reports.csv
+data/who_outbreak_reports.csv
 ```
 
 Once the script completes successfully, the dataset will be ready for exploratory data analysis and visualization.
