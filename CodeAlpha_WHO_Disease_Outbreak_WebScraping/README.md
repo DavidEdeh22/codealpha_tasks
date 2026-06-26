@@ -366,7 +366,6 @@ This dataset can be used for:
 * Public health research
 * Power BI visualizations
 * SQL projects
-* Machine learning experiments
 
 ---
 
@@ -433,13 +432,8 @@ These screenshots provide a visual overview of the scraping workflow.
 Possible enhancements include:
 
 * Exporting data to SQL databases
-* JSON export support
 * Automatic scheduled scraping
-* Cloud deployment
-* Docker containerization
 * Interactive Power BI dashboard
-* NLP analysis of outbreak report content
-* Automated email notifications for newly published reports
 * Integration into an end-to-end healthcare analytics pipeline
 
 ---
